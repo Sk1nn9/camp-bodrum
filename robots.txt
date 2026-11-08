@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://camp-bali.tennis-go-school.ru/sitemap.xml
